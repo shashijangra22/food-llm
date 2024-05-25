@@ -1,0 +1,5 @@
+LLMCONFIG:
+  ENABLED:
+    true
+  API_KEY:
+    <API_KEY>
