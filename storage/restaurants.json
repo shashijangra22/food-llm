@@ -1,0 +1,227 @@
+[
+    {
+        "restaurant": "Tandoori Treats",
+        "city": "Mumbai",
+        "distance": "2.8KM",
+        "ratings": 4.5,
+        "open_at": "10:00",
+        "close_at": "23:00",
+        "food_items": [
+            {
+                "item": "Paneer Tikka",
+                "portion": "200g",
+                "rate": "Rs. 180"
+            },
+            {
+                "item": "Butter Naan",
+                "portion": "1 PC",
+                "rate": "Rs. 40"
+            },
+            {
+                "item": "Chicken Tandoori",
+                "portion": "300g",
+                "rate": "Rs. 250"
+            },
+            {
+                "item": "Veg Biryani",
+                "portion": "500g",
+                "rate": "Rs. 150"
+            }
+        ]
+    },
+    {
+        "restaurant": "Spice Hub",
+        "city": "Bangalore",
+        "distance": "3.5KM",
+        "ratings": 4.2,
+        "open_at": "09:00",
+        "close_at": "22:30",
+        "food_items": [
+            {
+                "item": "Aloo Gobi",
+                "portion": "250ml",
+                "rate": "Rs. 160"
+            },
+            {
+                "item": "Garlic Naan",
+                "portion": "1 PC",
+                "rate": "Rs. 35"
+            },
+            {
+                "item": "Chana Masala",
+                "portion": "250ml",
+                "rate": "Rs. 140"
+            },
+            {
+                "item": "Mango Lassi",
+                "portion": "300ml",
+                "rate": "Rs. 50"
+            }
+        ]
+    },
+    {
+        "restaurant": "Mumbai Masala",
+        "city": "Mumbai",
+        "distance": "4.1KM",
+        "ratings": 4.0,
+        "open_at": "11:00",
+        "close_at": "23:00",
+        "food_items": [
+            {
+                "item": "Chicken Curry",
+                "portion": "300ml",
+                "rate": "Rs. 220"
+            },
+            {
+                "item": "Jeera Rice",
+                "portion": "1 bowl",
+                "rate": "Rs. 60"
+            },
+            {
+                "item": "Fish Fry",
+                "portion": "200g",
+                "rate": "Rs. 280"
+            },
+            {
+                "item": "Gulab Jamun",
+                "portion": "2 PC",
+                "rate": "Rs. 50"
+            }
+        ]
+    },
+    {
+        "restaurant": "Curry Corner",
+        "city": "Delhi",
+        "distance": "3.9KM",
+        "ratings": 4.3,
+        "open_at": "10:30",
+        "close_at": "22:30",
+        "food_items": [
+            {
+                "item": "Palak Paneer",
+                "portion": "200ml",
+                "rate": "Rs. 150"
+            },
+            {
+                "item": "Tandoori Roti",
+                "portion": "1 PC",
+                "rate": "Rs. 20"
+            },
+            {
+                "item": "Rajma Chawal",
+                "portion": "500g",
+                "rate": "Rs. 130"
+            },
+            {
+                "item": "Matar Paneer",
+                "portion": "250ml",
+                "rate": "Rs. 170"
+            }
+        ]
+    },
+    {
+        "restaurant": "Delhi Delight",
+        "city": "Delhi",
+        "distance": "2.6KM",
+        "ratings": 4.6,
+        "open_at": "09:00",
+        "close_at": "23:00",
+        "food_items": [
+            {
+                "item": "Dal Makhani",
+                "portion": "250ml",
+                "rate": "Rs. 140"
+            },
+            {
+                "item": "Lachha Paratha",
+                "portion": "1 PC",
+                "rate": "Rs. 30"
+            },
+            {
+                "item": "Paneer Butter Masala",
+                "portion": "250ml",
+                "rate": "Rs. 180"
+            },
+            {
+                "item": "Samosa",
+                "portion": "2 PC",
+                "rate": "Rs. 20"
+            },
+            {
+                "item": "Masala Chai",
+                "portion": "150ml",
+                "rate": "Rs. 25"
+            }
+        ]
+    },
+    {
+        "restaurant": "Punjabi Dhaba",
+        "city": "Amritsar",
+        "distance": "5.2KM",
+        "ratings": 4.4,
+        "open_at": "15:00",
+        "close_at": "22:00",
+        "food_items": [
+            {
+                "item": "Amritsari Kulcha",
+                "portion": "1 PC",
+                "rate": "Rs. 50"
+            },
+            {
+                "item": "Pindi Chole",
+                "portion": "250ml",
+                "rate": "Rs. 130"
+            },
+            {
+                "item": "Butter Chicken",
+                "portion": "300ml",
+                "rate": "Rs. 300"
+            },
+            {
+                "item": "Lassi",
+                "portion": "300ml",
+                "rate": "Rs. 60"
+            },
+            {
+                "item": "Gajar Halwa",
+                "portion": "200g",
+                "rate": "Rs. 100"
+            }
+        ]
+    },
+    {
+        "restaurant": "Southern Spice",
+        "city": "Chennai",
+        "distance": "3.8KM",
+        "ratings": 4.5,
+        "open_at": "15:00",
+        "close_at": "22:00",
+        "food_items": [
+            {
+                "item": "Masala Dosa",
+                "portion": "1 PC",
+                "rate": "Rs. 70"
+            },
+            {
+                "item": "Idli",
+                "portion": "2 PC",
+                "rate": "Rs. 40"
+            },
+            {
+                "item": "Vada",
+                "portion": "2 PC",
+                "rate": "Rs. 30"
+            },
+            {
+                "item": "Sambar",
+                "portion": "250ml",
+                "rate": "Rs. 50"
+            },
+            {
+                "item": "Filter Coffee",
+                "portion": "150ml",
+                "rate": "Rs. 20"
+            }
+        ]
+    }
+]
